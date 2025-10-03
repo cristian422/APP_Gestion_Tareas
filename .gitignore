@@ -22,3 +22,5 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+eva"$(ssh-agent -s)"
+eval "$(ssh-agent -s)".pub
